@@ -15,6 +15,8 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 
 1. Entrada y salida de datos
 2. Declaración y asignación de variables
-3. 
+3. Estructuras de control
+4. Llamadas a función
+
 
 
