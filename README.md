@@ -13,4 +13,8 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 
 ### Ejercicios
 
+1. Entrada y salida de datos
+2. Declaración y asignación de variables
+3. 
+
 
