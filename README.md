@@ -18,5 +18,9 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 3. Estructuras de control
 4. Llamadas a función
 5. Estructuras iterativas: ***FOR, WHILE, DO***
+6. Serie de ejercicios
+    *Ordenamientos
+    *Par e impar
+    *Algebra básica
 
 
