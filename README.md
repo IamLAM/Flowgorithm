@@ -22,5 +22,6 @@ _Este es un curso de metodología de la programación que sirve como introducci�
     *Ordenamientos
     *Par e impar
     *Algebra básica
+    *Gestión de agenda
 
 
