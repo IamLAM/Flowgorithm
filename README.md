@@ -21,6 +21,7 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 6. Serie de ejercicios
     *Ordenamientos
     *Par e impar
+    *Solicita una pizza
     *Adivina el numero
     *Algebra básica
     *Gestión de agenda
