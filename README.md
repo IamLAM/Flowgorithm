@@ -25,5 +25,6 @@ _Este es un curso de metodología de la programación que sirve como introducci�
     *Adivina el numero
     *Algebra básica
     *Gestión de agenda
+    *Calculo de figuras
 
 
