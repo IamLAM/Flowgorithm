@@ -28,3 +28,4 @@ _Este es un curso de metodología de la programación que sirve como introducci�
     * Calculo de figuras
     * Adivina el acertijo
     * Conversiones 
+    * Simular un reloj digital
