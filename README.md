@@ -19,13 +19,12 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 4. Llamadas a función
 5. Estructuras iterativas: ***FOR, WHILE, DO***
 6. Serie de ejercicios
-    *Ordenamientos
-    *Par e impar
-    *Solicita una pizza
-    *Adivina el numero
-    *Algebra básica
-    *Gestión de agenda
-    *Calculo de figuras
-    *Adivina el acertijo
-
-
+    * Ordenamientos
+    * Par e impar
+    * Solicita una pizza
+    * Adivina el numero
+    * Algebra básica
+    * Gestión de agenda
+    * Calculo de figuras
+    * Adivina el acertijo
+    * Conversiones 
