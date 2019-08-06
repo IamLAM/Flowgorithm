@@ -29,3 +29,4 @@ _Este es un curso de metodología de la programación que sirve como introducci�
     * Adivina el acertijo
     * Conversiones 
     * Simular un reloj digital
+    * Tienda de autoservicio
