@@ -19,6 +19,7 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 4. Llamadas a función
 5. Estructuras iterativas: ***FOR, WHILE, DO***
 6. Serie de ejercicios
+    * Catalogo de ejercicios:Preparar una hamburguesa   
     * Ordenamientos
     * Par e impar
     * Solicita una pizza
