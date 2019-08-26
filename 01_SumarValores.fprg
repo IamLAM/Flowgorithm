@@ -4,12 +4,19 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="Luis Monge"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2019-08-26 11:01:48 AM"/>
+        <attribute name="saved" value="2019-08-26 11:03:47 AM"/>
         <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDgtMjY7MTA6NTg6MjggQU07MjUyNw=="/>
-        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDgtMjY7MTE6MDE6NDggQU07MTsyNjI2"/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDgtMjY7MTE6MDM6NDcgQU07MjsyNjI4"/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
-        <body/>
+        <body>
+            <output expression="&quot;Dime cuanto te cobran por el agua mensualmente&quot;" newline="True"/>
+            <input variable="cantidadDinero"/>
+            <if expression="cantidadDinero&lt;=800">
+                <then/>
+                <else/>
+            </if>
+        </body>
     </function>
 </flowgorithm>
