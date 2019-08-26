@@ -4,9 +4,9 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="Luis Monge"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2019-08-26 11:03:47 AM"/>
+        <attribute name="saved" value="2019-08-26 11:10:03 AM"/>
         <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDgtMjY7MTA6NTg6MjggQU07MjUyNw=="/>
-        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDgtMjY7MTE6MDM6NDcgQU07MjsyNjI4"/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDgtMjY7MTE6MTA6MDMgQU07MzsyNjE5"/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -14,7 +14,19 @@
             <output expression="&quot;Dime cuanto te cobran por el agua mensualmente&quot;" newline="True"/>
             <input variable="cantidadDinero"/>
             <if expression="cantidadDinero&lt;=800">
-                <then/>
+                <then>
+                    <output expression="&quot;Su consumo es alto&quot;" newline="True"/>
+                    <output expression="&quot;Verificar si existen fugas, responder (Si con un 1 o No con un 0)&quot;" newline="True"/>
+                    <input variable="existenFugas"/>
+                    <if expression="existenFugas&gt;=1">
+                        <then>
+                            <output expression="&quot;Arreglar fugas&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Solo pueden ba&#241;arse un dia a la semana&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </then>
                 <else/>
             </if>
         </body>
