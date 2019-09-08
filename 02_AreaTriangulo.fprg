@@ -4,9 +4,9 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="Luis Monge"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2019-09-07 10:13:58 PM"/>
+        <attribute name="saved" value="2019-09-07 10:20:52 PM"/>
         <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMDc7MTA6MDY6MzcgUE07MjUzNQ=="/>
-        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMDc7MTA6MTM6NTggUE07MjsyNjQ1"/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMDc7MTA6MjA6NTIgUE07MzsyNjM4"/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -18,7 +18,8 @@
             <output expression="&quot;&#191;Cual es la altura?&quot;" newline="True"/>
             <input variable="h"/>
             <assign variable="resultado" expression="(b*h)/2"/>
-            <if expression="resultado=20">
+            <output expression="resultado" newline="True"/>
+            <if expression="resultado==20">
                 <then>
                     <output expression="&quot;El &#225;rea del triangulo es muy peque&#241;a&quot;" newline="True"/>
                 </then>
