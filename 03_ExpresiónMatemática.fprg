@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Luis Monge"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-09-07 10:28:16 PM"/>
+        <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMDc7MTA6MjI6MzYgUE07MjUzMg=="/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMDc7MTA6Mjg6MTYgUE07MTsyNjQ0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, resultado" type="Integer" array="False" size=""/>
+            <output expression="&quot;Dame el valor de a&quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;Dame el valor de b&quot;" newline="True"/>
+            <input variable="b"/>
+            <assign variable="resultado" expression="(a^2)+2*a*b+(b^2)"/>
+            <output expression="resultado" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
