@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Luis Monge"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-09-12 12:56:11 PM"/>
+        <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMTI7MTI6MzU6NDMgUE07MjUzMg=="/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMTI7MTI6NTY6MTEgUE07MTsyNjM4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero" type="Integer" array="False" size=""/>
+            <output expression="&quot;se pagan en el mismo lugar&quot;" newline="True"/>
+            <input variable="numero"/>
+            <if expression="numero=1">
+                <then>
+                    <output expression="&quot;los va a pagar el mismo dia&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;los pagara en dias diferentes&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
