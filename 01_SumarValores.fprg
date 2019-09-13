@@ -4,15 +4,15 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="Luis Monge"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2019-09-12 08:27:00 PM"/>
+        <attribute name="saved" value="2019-09-12 08:29:15 PM"/>
         <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDgtMjY7MTA6NTg6MjggQU07MjUyNw=="/>
-        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMTI7MDg6Mjc6MDAgUE07NzsyNjQ1"/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMTI7MDg6Mjk6MTUgUE07ODsyNjU0"/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
         <body>
-            <output expression="&quot;Dime cuanto te cobran por el agua mensualmente&quot;" newline="True"/>
             <declare name="cantidadDinero, existenFugas" type="Integer" array="False" size=""/>
+            <output expression="&quot;Dime cuanto te cobran por el agua mensualmente&quot;" newline="True"/>
             <input variable="cantidadDinero"/>
             <if expression="cantidadDinero&gt;=800">
                 <then>
