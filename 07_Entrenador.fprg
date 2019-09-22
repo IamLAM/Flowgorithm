@@ -4,12 +4,20 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="Luis Monge"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2019-09-22 12:31:00 PM"/>
+        <attribute name="saved" value="2019-09-22 12:32:42 PM"/>
         <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMjI7MTI6MzA6NDcgUE07MjUzMg=="/>
-        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMjI7MTI6MzE6MDAgUE07MTsyNjMw"/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMjI7MTI6MzI6NDIgUE07MjsyNjM4"/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
-        <body/>
+        <body>
+            <declare name="dias" type="Integer" array="False" size=""/>
+            <output expression="&quot;&#191;Cuantos dias entrenas?&quot;" newline="True"/>
+            <input variable="dias"/>
+            <if expression="dias&gt;6">
+                <then/>
+                <else/>
+            </if>
+        </body>
     </function>
 </flowgorithm>
