@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Luis Monge"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-09-22 02:02:57 PM"/>
+        <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMjI7MTI6NDc6MjggUE07MjUzOQ=="/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMjI7MDI6MDI6NTcgUE07MTsyNjM5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="respuesta" type="String" array="False" size=""/>
+            <output expression="&quot;&#191;C&#243;mo estas?&quot;" newline="True"/>
+            <input variable="respuesta"/>
+            <if expression="respuesta==&quot;mal&quot;">
+                <then>
+                    <output expression="&quot;Ir al m&#233;dico&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Aprovecha y diviertete con tus amigos!!!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
