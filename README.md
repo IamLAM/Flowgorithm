@@ -31,7 +31,7 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 
 		* Dar doble click sobre el simbolo ***Declare***, escribir nombre de variable y seleccionar tipo de dato :
 		![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/agregandoTipoDatoDeclare.jpg "Agregando tipo de dato")
-		* Aceptar cambios  ***Declare***, resultado final:
+		* Aceptar cambios  ***Declare***, resultado final:<br>
 		![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/agregandoDeclareCompleto.jpg "Declare completo")
 	
 	* ***Tipos de datos en Flowgorithm***: 
@@ -46,6 +46,7 @@ Booleanos | true, false,1,0
 
 	
 3. Estructuras de control
+
 4. Llamadas a función
 5. Estructuras iterativas: ***FOR, WHILE, DO***
 6. Serie de ejercicios
