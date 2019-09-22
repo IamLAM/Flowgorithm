@@ -20,6 +20,9 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 	* ***Ejemplo:*** [Entrada y Salida](https://github.com/IamLAM/Flowgorithm/blob/master/Entrada_Salida.fprg)
 	* <img src="/img/entrada_salida.jpg">
 2. Declaración y asignación de variables
+	* ***Declaración***: Es la acción de indicar el tipo de dato que tendrá una variable, en consecuencia, dependiendo del tipo de dato, será el valor que puede almacenar.Por ejemplo
+	en el lenguaje de programación C tiene la siguiente estructura: [tipo de dato][nombre de variable]=[inicialización]. Equivalente a: int respuesta=1;
+	* ***Flowgorithm***. Al igual que en el lenguaje de programación C. En este programa se pueden agregar cuatro tipos de datos: ***Enteros,Reales,Cadenas y Booleanos***
 3. Estructuras de control
 4. Llamadas a función
 5. Estructuras iterativas: ***FOR, WHILE, DO***
