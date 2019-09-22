@@ -1,6 +1,7 @@
 # Aprendiendo a lógica con Flowgorithm :computer: 
 
 _Autor: Luis Angel Monge_
+profesor@luismonge.com.mx
 
 ## Descripción
 
