@@ -4,9 +4,9 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="Luis Monge"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2019-09-22 12:32:42 PM"/>
+        <attribute name="saved" value="2019-09-22 12:34:20 PM"/>
         <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMjI7MTI6MzA6NDcgUE07MjUzMg=="/>
-        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMjI7MTI6MzI6NDIgUE07MjsyNjM4"/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMjI7MTI6MzQ6MjAgUE07MzsyNjM3"/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -15,8 +15,12 @@
             <output expression="&quot;&#191;Cuantos dias entrenas?&quot;" newline="True"/>
             <input variable="dias"/>
             <if expression="dias&gt;6">
-                <then/>
-                <else/>
+                <then>
+                    <output expression="&quot;Te convertir&#225;s en el mejor peleador&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Mejor vete a jugar ping pong con tus amigos&quot;" newline="True"/>
+                </else>
             </if>
         </body>
     </function>
