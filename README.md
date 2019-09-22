@@ -25,6 +25,8 @@ _Este es un curso de metodología de la programación que sirve como introducci�
     * [Josefina:Strings](https://github.com/IamLAM/Flowgorithm/blob/master/04_Josefina.fprg) 
     * [Josefina:Integers](https://github.com/IamLAM/Flowgorithm/blob/master/05_JosefinaN.fprg) 
     * [Obtener promedios](https://github.com/IamLAM/Flowgorithm/blob/master/06_ObtenerPromedio.fprg	) 
+	* [Entrenador](https://github.com/IamLAM/Flowgorithm/blob/master/07_Entrenador.fprg) 
+
  	* Catalogo de ejercicios:Preparar una hamburguesa  
     * Ordenamientos
     * Par e impar
