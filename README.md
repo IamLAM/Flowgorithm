@@ -24,12 +24,12 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 	en el lenguaje de programación C tiene la siguiente estructura: [tipo de dato][nombre de variable]=[inicialización]. Equivalente a: int respuesta=1;
 	* ***¿Como se hace en Flowgorithm?***. Al igual que en el lenguaje de programación C. En este programa se pueden agregar cuatro tipos de datos: ***Enteros,Reales,Cadenas y Booleanos***
 	
-Tipo de dato | Significado
-----------|------------
-Enteros        | 1,2,3....n
-Reales         | 1.0,1.1,33.5....n
-Cadenas         | "Hola", "A", "1"
-Booleanos        | true, false,1,0
+								Tipo de dato | Significado
+								----------|------------
+								Enteros        | 1,2,3....n
+								Reales         | 1.0,1.1,33.5....n
+								Cadenas         | "Hola", "A", "1"
+								Booleanos        | true, false,1,0
 
 	
 	
