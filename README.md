@@ -19,7 +19,12 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 4. Llamadas a función
 5. Estructuras iterativas: ***FOR, WHILE, DO***
 6. Serie de ejercicios
-    * Catalogo de ejercicios:Preparar una hamburguesa   
+    * [Sumar valores](https://github.com/IamLAM/Flowgorithm/blob/master/01_SumarValores.fprg)
+    * [Area Triangulo](https://github.com/IamLAM/Flowgorithm/blob/master/02_AreaTriangulo.fprg) 
+    * [Expresión Matemática](https://github.com/IamLAM/Flowgorithm/blob/master/03_Expresi%C3%B3nMatem%C3%A1tica.fprg) 
+    * [Josefina:Strings](https://github.com/IamLAM/Flowgorithm/blob/master/04_Josefina.fprg) 
+    * [Josefina:Integers](https://github.com/IamLAM/Flowgorithm/blob/master/05_JosefinaN.fprg) 
+ 	* Catalogo de ejercicios:Preparar una hamburguesa   
     * Ordenamientos
     * Par e impar
     * Solicita una pizza
