@@ -14,6 +14,9 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 ### Ejercicios
 
 1. Entrada y salida de datos
+	* Entrada: Es un simbolo en forma de rectangulo, que sirve para realizar preguntas, dar instrucciones, mostrar resultados. Los datos de entrada deben escribirse entre comillas, la excepción es cuando quieres mostrar el resultado de una variable
+	* Salida: Es un simbolo en forma de rectangulo inclinado, que sirve para obtener información desde el teclado de la computadora
+	* Ejemplo: [Entrada y Salida] (https://github.com/IamLAM/Flowgorithm/blob/master/Entrada_Salida.fprg)
 2. Declaración y asignación de variables
 3. Estructuras de control
 4. Llamadas a función
