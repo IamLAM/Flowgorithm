@@ -4,9 +4,9 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="Luis Monge"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2019-09-22 12:24:00 PM"/>
+        <attribute name="saved" value="2019-09-22 12:26:48 PM"/>
         <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMjI7MTI6MDU6MjUgUE07MjUzMA=="/>
-        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMjI7MTI6MjQ6MDAgUE07MTsyNjMy"/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMjI7MTI6MjY6NDggUE07MjsyNjQ3"/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -19,11 +19,14 @@
             <input variable="c4"/>
             <input variable="c5"/>
             <assign variable="promedio" expression="(c1+c2+c3+c4+c5)/5"/>
+            <output expression="promedio" newline="True"/>
             <if expression="promedio&lt;=7">
                 <then>
                     <output expression="&quot;Debo seguir estudiando&quot;" newline="True"/>
                 </then>
-                <else/>
+                <else>
+                    <output expression="&quot;Puedo irme de fiesta&quot;" newline="True"/>
+                </else>
             </if>
         </body>
     </function>
