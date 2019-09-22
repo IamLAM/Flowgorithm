@@ -34,7 +34,7 @@ Booleanos        | true, false,1,0
 
 	* ***¿Como se hace en Flowgorithm?***. Al igual que en el lenguaje de programación C. En este programa se pueden agregar cuatro tipos de datos: ***Enteros,Reales,Cadenas y Booleanos***
 	
-	1. Agregar simbolo Declare
+	** Agregar simbolo Declare
 	<img src="/img/agregandoSimboloDeclare.jpg">
 	
 3. Estructuras de control
