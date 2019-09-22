@@ -29,7 +29,7 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 		<img src="/img/agregandoSimboloDeclare.jpg">
 		* Dar doble click sobre el simbolo ***Declare***, escribir nombre de variable y seleccionar tipo de dato 
 		<img src="/img/agregandoTipoDatoDeclare.jpg">
-		* Aceptar cambios  ***Declare***, resultado final: 
+		* Aceptar cambios  ***Declare***, resultado final
 		<img src="/img/agregandoDeclareCompleto.jpg">
 	
 	* ***Tipos de datos en Flowgorithm***: 
