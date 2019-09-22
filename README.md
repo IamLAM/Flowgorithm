@@ -46,10 +46,12 @@ Booleanos | true, false,1,0
 
 	
 3. Estructuras de control
+	* ***Rombo (if):*** Es un simbolo en forma de rombo, que sirve para la toma de decisiones. Dentro de este simbolo se deben añadir expresiones relacionales o lógicas como: a<6, (a==n)||(a>10),a!=5, a>=8, a<=1, entre muchas otras. Por lo tanto, los valores que hayas capturado previamente o pueden compararse dentro de este "rombo"
+	<br>
+		![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/Control.jpg "If")
 
-4. Llamadas a función
-5. Estructuras iterativas: ***FOR, WHILE, DO***
-6. Serie de ejercicios
+
+4. Serie de ejercicios
     * [Sumar valores](https://github.com/IamLAM/Flowgorithm/blob/master/01_SumarValores.fprg)
     * [Area Triangulo](https://github.com/IamLAM/Flowgorithm/blob/master/02_AreaTriangulo.fprg) 
     * [Expresión Matemática](https://github.com/IamLAM/Flowgorithm/blob/master/03_Expresi%C3%B3nMatem%C3%A1tica.fprg) 
