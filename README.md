@@ -14,9 +14,10 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 ### Temario
 
 1. Entrada y salida de datos
-	* ***Entrada:*** Es un simbolo en forma de rectangulo, que sirve para realizar preguntas, dar instrucciones, mostrar resultados. Los datos de entrada deben escribirse entre comillas, la excepción es cuando quieres mostrar el resultado de una variable
-	* ***Salida:*** Es un simbolo en forma de rectangulo inclinado, que sirve para obtener información desde el teclado de la computadora. Dentro del rectangulo inclinado debe proporcionarse un nombre de variable. Esta almacenará la información que la persona escriba desde su teclado
+	* ***Salida(Output):*** Es un simbolo en forma de rectangulo inclinado, que sirve para realizar preguntas, dar instrucciones, mostrar resultados. Los datos de entrada deben escribirse entre comillas, la excepción es cuando quieres mostrar el resultado de una variable
+	* ***Entrada(Input):*** Es un simbolo en forma de rectangulo inclinado, que sirve para obtener información desde el teclado de la computadora. Dentro del rectangulo inclinado debe proporcionarse un nombre de variable. Esta almacenará la información que la persona escriba desde su teclado
 	* ***Ejemplo:*** [Entrada y Salida](https://github.com/IamLAM/Flowgorithm/blob/master/Entrada_Salida.fprg)
+	* <img src="/img/entrada_salida.jpg">
 2. Declaración y asignación de variables
 3. Estructuras de control
 4. Llamadas a función
