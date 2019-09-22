@@ -30,9 +30,9 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 		![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/agregandoSimboloDeclare.jpg "Agregando simbolo")
 
 		* Dar doble click sobre el simbolo ***Declare***, escribir nombre de variable y seleccionar tipo de dato :
-		![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/agregandoTipoDatoDeclare.jpg "Agregando simbolo")
+		![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/agregandoTipoDatoDeclare.jpg "Agregando tipo de dato")
 		* Aceptar cambios  ***Declare***, resultado final:
-		<img src="/img/agregandoDeclareCompleto.jpg">
+		![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/agregandoDeclareCompleto.jpg "Declare completo")
 	
 	* ***Tipos de datos en Flowgorithm***: 
 	
