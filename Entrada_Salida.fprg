@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Luis Monge"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-09-22 12:39:46 PM"/>
+        <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMjI7MTI6Mzc6MjMgUE07MjUzMw=="/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMjI7MTI6Mzk6NDYgUE07MTsyNjQ4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Este simbolo es una entrada de datos, sirve para realizar preguntas, dar instrucciones, mostrar resultados. Los datos de entrada deben escribirse entre comillas, la excepci&#243;n es cuando quieres mostrar el resultado de una variable&quot;" newline="True"/>
+            <input variable="respuesta"/>
+        </body>
+    </function>
+</flowgorithm>
