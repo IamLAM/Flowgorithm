@@ -23,6 +23,10 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 	* ***Declaración***: Es la acción de indicar el tipo de dato que tendrá una variable, en consecuencia, dependiendo del tipo de dato, será el valor que puede almacenar.Por ejemplo
 	en el lenguaje de programación C tiene la siguiente estructura: [tipo de dato][nombre de variable]=[inicialización]. Equivalente a: int respuesta=1;
 	
+	* ***¿Como se hace en Flowgorithm?***. Al igual que en el lenguaje de programación C. En este programa se pueden agregar cuatro tipos de datos: ***Enteros,Reales,Cadenas y Booleanos***
+	
+	* Agregar simbolo Declare <img src="/img/agregandoSimboloDeclare.jpg">
+	
 	* ***Tipos de datos en Flowgorithm***: 
 	
 Tipo de dato | Significado
@@ -32,9 +36,7 @@ Reales (decimales) | 1.0,1.1,33.5....n
 Cadenas(Alfanumericos entre comillas) | "Hola", "A", "1"
 Booleanos | true, false,1,0
 
-	* ***¿Como se hace en Flowgorithm?***. Al igual que en el lenguaje de programación C. En este programa se pueden agregar cuatro tipos de datos: ***Enteros,Reales,Cadenas y Booleanos***
-	
-	* Agregar simbolo Declare <img src="/img/agregandoSimboloDeclare.jpg">
+
 	
 3. Estructuras de control
 4. Llamadas a función
