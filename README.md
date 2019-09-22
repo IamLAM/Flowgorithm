@@ -27,10 +27,10 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 	
 Tipo de dato | Significado
 ----------|------------
-Enteros        | 1,2,3....n
-Reales (decimales)         | 1.0,1.1,33.5....n
-Cadenas(Alfanumericos entre comillas)         | "Hola", "A", "1"
-Booleanos        | true, false,1,0
+Enteros | 1,2,3....n
+Reales (decimales) | 1.0,1.1,33.5....n
+Cadenas(Alfanumericos entre comillas) | "Hola", "A", "1"
+Booleanos | true, false,1,0
 
 	* ***¿Como se hace en Flowgorithm?***. Al igual que en el lenguaje de programación C. En este programa se pueden agregar cuatro tipos de datos: ***Enteros,Reales,Cadenas y Booleanos***
 	
