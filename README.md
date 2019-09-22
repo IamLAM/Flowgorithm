@@ -27,9 +27,10 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 	* ***¿Como se hace en Flowgorithm?***. Al igual que en el lenguaje de programación C. En este programa se pueden agregar cuatro tipos de datos: ***Enteros,Reales,Cadenas y Booleanos***
 	
 		* Agregar simbolo ***Declare*** :
-		<img src="/img/agregandoSimboloDeclare.jpg">
+		![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/agregandoSimboloDeclare.jpg "Agregando simbolo")
+
 		* Dar doble click sobre el simbolo ***Declare***, escribir nombre de variable y seleccionar tipo de dato :
-		<img src="/img/agregandoTipoDatoDeclare.jpg">
+		![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/agregandoTipoDatoDeclare.jpg "Agregando simbolo")
 		* Aceptar cambios  ***Declare***, resultado final:
 		<img src="/img/agregandoDeclareCompleto.jpg">
 	
