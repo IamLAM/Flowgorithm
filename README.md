@@ -11,7 +11,7 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 * [Flowgorithm](http://www.flowgorithm.org/) - Software a utilizar
 
 
-### Ejercicios
+### Temario
 
 1. Entrada y salida de datos
 	* ***Entrada:*** Es un simbolo en forma de rectangulo, que sirve para realizar preguntas, dar instrucciones, mostrar resultados. Los datos de entrada deben escribirse entre comillas, la excepción es cuando quieres mostrar el resultado de una variable
