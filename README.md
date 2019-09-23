@@ -1,11 +1,11 @@
-# Aprendiendo a lógica con Flowgorithm :computer: 
+# Aprendiendo lógica con Flowgorithm :computer: 
 
 _Autor: Luis Angel Monge_
 profesor@luismonge.com.mx
 
 ## Descripción
 
-_Este es un curso de metodología de la programación que sirve como introducción al aprendizaje de lógica  con el apoyo de la herramienta  Flowgorithm, que ayuda a la generación de diagrmas de flujo y algoritmos_
+_Este es un curso de metodología de la programación que sirve como introducción al aprendizaje de lógica. La herramienta que se utilizará es  Flowgorithm, que permite a generar  diagramas de flujo y exportar distintos lenguajes_
 
 ### Pre-requisitos :white_check_mark:
 
