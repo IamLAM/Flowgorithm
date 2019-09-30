@@ -5,7 +5,7 @@ profesor@luismonge.com.mx
 
 ## Descripción
 
-_Este es un curso de metodología de la programación que sirve como introducción al aprendizaje de lógica. La herramienta que se utilizará es  Flowgorithm, que permite a generar  diagramas de flujo y exportar distintos lenguajes_
+_Este es un curso de metodología de la programación que sirve como introducción al aprendizaje de lógica. La herramienta que se utilizará es  Flowgorithm, que permite generar  diagramas de flujo y exportar a distintos lenguajes de programación_
 
 ### Pre-requisitos :white_check_mark:
 
