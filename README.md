@@ -54,10 +54,10 @@ Booleanos | true, false,1,0
 
 	* [Descargar Ejercicio Completo](https://github.com/IamLAM/Flowgorithm/blob/master/EstructuradeControl.fprg)
 
-4.Estructuras Iterativas
+4. Estructuras Iterativas
 	* ***Hexágono (while):*** Es un simbolo que sirve ciclar o repetir n veces un conjunto de instrucciones. Dentro de este simbolo se deben añadir expresiones relacionales o lógicas como: a<6, (a==n)||(a>10),a!=5, a>=8, a<=1, entre muchas otras. Por lo tanto, los valores que hayas capturado previamente, se comparan dentro de este "hexágono". Si la condición es válida,estará repitiendose el ciclo (TRUE), de lo contrario será FALSE<br>
-		![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/CicloWhile.jpg "while")
-
+		* ![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/CicloWhile.jpg "while")
+		* [Descargar Ejercicio Completo](https://github.com/IamLAM/Flowgorithm/blob/master/EstructuraIterativaWhile.fprg)
 	*
 
 
