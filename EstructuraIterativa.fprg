@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Luis Monge"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-10-02 04:42:34 PM"/>
+        <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMTAtMDI7MDI6MjM6NTIgUE07MjUxOQ=="/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMTAtMDI7MDQ6NDI6MzQgUE07MTsyNjMw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="contar" type="Integer" array="False" size=""/>
+            <assign variable="contar" expression="0"/>
+            <output expression="&quot;Inicio el ciclo&quot;" newline="True"/>
+            <while expression="contar&lt;10">
+                <assign variable="contar" expression="contar+1"/>
+                <output expression="contar" newline="True"/>
+            </while>
+            <output expression="&quot;Termino el ciclo&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
