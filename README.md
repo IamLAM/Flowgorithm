@@ -46,7 +46,7 @@ Booleanos | true, false,1,0
 
 	
 3. Estructuras de control
-	* ***Rombo (if):*** Es un simbolo que sirve para la toma de decisiones. Dentro de este simbolo se deben añadir expresiones relacionales o lógicas como: a<6, (a==n)||(a>10),a!=5, a>=8, a<=1, entre muchas otras. Por lo tanto, los valores que hayas capturado previamente o pueden compararse dentro de este "rombo"<br>![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/Control.jpg "If")
+	* ***Rombo (if):*** Es un simbolo que sirve para la toma de decisiones. Dentro de este simbolo se deben añadir expresiones relacionales o lógicas como: a<6, (a==n)||(a>10),a!=5, a>=8, a<=1, entre muchas otras. Por lo tanto, los valores que hayas capturado previamente, se comparan dentro de este "rombo"<br>![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/Control.jpg "If")
 	* ***Agregar una expresión y dos mensajes de salida***. Si la expresión es ***VERDADERA*** se irá por el camino del SI o TRUE o VERDADERO, si no, se irá por el camino del NO o FALSE o FALSO. Por ejemplo. En este diagrama, se evalua si la persona se siente mal. Es decir, si alguien escribe desde su teclado la palabra mal,la expresión será verdadera por que dentro de la variable respuesta se guardara "mal". Por lo tanto en el rombo se evalua respuesta=="mal",comparandose "mal"=="mal". ![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/Control_Respuesta.jpg "Expresiones")
 	
 	* ***Resultado final:***<br>
@@ -54,8 +54,12 @@ Booleanos | true, false,1,0
 
 	* [Descargar Ejercicio Completo](https://github.com/IamLAM/Flowgorithm/blob/master/EstructuradeControl.fprg)
 
+4.Estructuras Iterativas
+	* ***Hexágono (while):*** Es un simbolo que sirve ciclar o repetir n veces un conjunto de instrucciones. Dentro de este simbolo se deben añadir expresiones relacionales o lógicas como: a<6, (a==n)||(a>10),a!=5, a>=8, a<=1, entre muchas otras. Por lo tanto, los valores que hayas capturado previamente, se comparan dentro de este "hexágono"<br>
 
-4. Serie de ejercicios
+
+
+5. Serie de ejercicios
     * [Sumar valores](https://github.com/IamLAM/Flowgorithm/blob/master/01_SumarValores.fprg)
     * [Area Triangulo](https://github.com/IamLAM/Flowgorithm/blob/master/02_AreaTriangulo.fprg) 
     * [Expresión Matemática](https://github.com/IamLAM/Flowgorithm/blob/master/03_Expresi%C3%B3nMatem%C3%A1tica.fprg) 
