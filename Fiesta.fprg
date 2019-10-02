@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Luis Monge"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-10-02 12:45:48 PM"/>
+        <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMTAtMDI7MTE6MTI6MTUgQU07MjUwMQ=="/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMTAtMDI7MTI6NDU6NDggUE07NDsyNjQw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="respuesta" type="String" array="False" size=""/>
+            <output expression="&quot;que vas a dar de comer ? &quot;" newline="True"/>
+            <input variable="respuesta"/>
+            <if expression="respuesta = &quot;totopos&quot;&#13;&#10;OR&#13;&#10;respuesta= &quot;hamburguesa&quot; &#13;&#10;OR&#13;&#10;respuesta= &quot;tacos&quot;">
+                <then>
+                    <output expression="&quot;ire a comer a la fiesta &quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;comere en mi casa &quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
