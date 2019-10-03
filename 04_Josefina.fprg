@@ -4,9 +4,9 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="Luis Monge"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2019-10-02 08:06:10 PM"/>
+        <attribute name="saved" value="2019-10-02 08:24:27 PM"/>
         <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMTI7MTA6NTM6NDMgQU07MjUxNQ=="/>
-        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMTAtMDI7MDg6MDY6MTAgUE07NjsyNjMz"/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMTAtMDI7MDg6MjQ6MjcgUE07ODsyNjQz"/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -14,7 +14,7 @@
             <declare name="respuesta" type="String" array="False" size=""/>
             <output expression="&quot;&#191;Puedo pagar en el mismo lugar la luz y el agua?&quot;" newline="True"/>
             <input variable="respuesta"/>
-            <if expression="respuesta=&quot;si&quot;">
+            <if expression="respuesta==&quot;si&quot;">
                 <then>
                     <output expression="&quot;Voy a pagar los recibos el mismo dia&quot;" newline="True"/>
                 </then>
