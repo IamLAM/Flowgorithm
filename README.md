@@ -59,8 +59,8 @@ Booleanos | true, false,1,0
 		* ![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/CicloWhile.jpg "while")
 		* [Descargar Ejercicio Completo](https://github.com/IamLAM/Flowgorithm/blob/master/EstructuraIterativaWhile.fprg)
 	* ***Hexágono (do):*** Es un simbolo que sirve ciclar o repetir n veces un conjunto de instrucciones. La diferencia respecto a while, es que por lo menos ingresará una vez antes de validar  la expresión relacional dentro del "Hexágono". Por lo tanto, los valores que hayas capturado previamente, se comparan dentro de este "hexágono". Si la condición es válida,estará repitiendose el ciclo (TRUE), de lo contrario será FALSE<br>
-		* ![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/CicloWhile.jpg "while")
-		* [Descargar Ejercicio Completo](https://github.com/IamLAM/Flowgorithm/blob/master/EstructuraIterativaWhile.fprg)
+		* ![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/CicloDoWhile.jpg "do")
+		* [Descargar Ejercicio Completo](https://github.com/IamLAM/Flowgorithm/blob/master/EstructuraIterativaDoWhile.fprg)
 
 
 
