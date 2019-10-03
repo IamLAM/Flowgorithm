@@ -4,22 +4,22 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="Luis Monge"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2019-09-12 12:34:14 PM"/>
+        <attribute name="saved" value="2019-10-02 08:06:10 PM"/>
         <attribute name="created" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMTI7MTA6NTM6NDMgQU07MjUxNQ=="/>
-        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMDktMTI7MTI6MzQ6MTQgUE07NTsyNjQx"/>
+        <attribute name="edited" value="THVpcyBNb25nZTtNSU5HOzIwMTktMTAtMDI7MDg6MDY6MTAgUE07NjsyNjMz"/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
         <body>
             <declare name="respuesta" type="String" array="False" size=""/>
-            <output expression="&quot;&#191;Quedan en el mismo lugar la luz y el agua?&quot;" newline="True"/>
+            <output expression="&quot;&#191;Puedo pagar en el mismo lugar la luz y el agua?&quot;" newline="True"/>
             <input variable="respuesta"/>
             <if expression="respuesta=&quot;si&quot;">
                 <then>
-                    <output expression="&quot;Los voy a pagar el mismo dia&quot;" newline="True"/>
+                    <output expression="&quot;Voy a pagar los recibos el mismo dia&quot;" newline="True"/>
                 </then>
                 <else>
-                    <output expression="&quot;Los pagar&#233; un dia diferente&quot;" newline="True"/>
+                    <output expression="&quot;Pagar&#233; en diferente dia los recibos&quot;" newline="True"/>
                 </else>
             </if>
         </body>
