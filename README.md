@@ -62,7 +62,8 @@ Booleanos | true, false,1,0
 		* ![alt text](https://github.com/IamLAM/Flowgorithm/blob/master/img/CicloDoWhile.jpg "do")
 		* [Descargar Ejercicio Completo](https://github.com/IamLAM/Flowgorithm/blob/master/EstructuraIterativaDoWhile.fprg)
 	* ***Hexágono (for):*** Es un simbolo que sirve para ciclar o repetir n veces un conjunto de instrucciones. La diferencia respecto a while y do, es que debes indicar un valor de inicial,una expresión relacional y un valor incremental o decremental dentro del "Hexágono". Con estos tres elementos es posible ciclar n veces, el primer elemento nos indica desde donde comenzará a contar el ciclo, el segundo elemento ayudará a determinar en que momento se cumple o no con la expresión y el tercer elemento contará de forma incremental o decremental hasta que se cumpla con el segundo elemento o expresión<br>
-	
+		* [Descargar Ejercicio Completo](https://github.com/IamLAM/Flowgorithm/blob/master/EstructuraIterativaFor.fprg)
+
 	
 
 5. Serie de ejercicios
